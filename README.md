@@ -2,14 +2,12 @@
 Foodies Food Delivery Service
 
 * [Architecture](#markdown-header-architecture)
-* [Summary](#markdown-header-summary)
+* [Sequence Diagram](#markdown-header-sequence-diagram)
 
-[img-foodies-architecture]: docs/Foodies High Level Architecture.jpg
-[img-digital-audit-approach]: docs/diagrams/AuditApproach.jpg
 
 ## Architecture
 
-![Foodies High Level Architecture][img-foodies-architecture]
+![Foodies High Level Architecture](docs/foodies_high _level_architecture.jpg)
 
 ### Module Explanation
 
@@ -23,4 +21,4 @@ Foodies Food Delivery Service
 
 
 
-## Architecture
+## Sequence Diagram
